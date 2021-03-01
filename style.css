@@ -1,7 +1,15 @@
 body {
-    background: rgb(1, 1, 125)
+    background: black
 }
 
 h1 {
-    color: rgb(143, 111, 216)
+    color: white
+}
+
+h2 {
+    color: rgb(93, 75, 206)
+}
+
+p {
+    color: rgb(179, 163, 216)
 }
